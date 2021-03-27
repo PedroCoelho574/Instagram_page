@@ -123,21 +123,21 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('/img/celular\ png.png');
+    background-image: url('./img/foto.jpg');
 }
 
 
 .app-download:nth-child(2) {
-    background-image: url(/img/images\ \(1\).png);
+    background-image: url('./img/images\ \(1\).png');
 }
 
-@media (max-width: 1024px) {
+ @media (max-width: 1024px) {
     .instagram-wraper {
         width: 90%;
     }
 }
 
-@media (max-width:650px) {
+ @media (max-width:650px) {
     .instagram-wraper {
         width: 90%;
     }
